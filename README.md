@@ -7,6 +7,10 @@
   🍿 Watching movies  
   📚 Reading comics & novels
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cithaaa0205&show_icons=true&theme=monokai&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cithaaa0205&theme=default&hide_border=true)](https://git.io/streak-stats)
+
 ## 🚀 My Projects
 Here are some of my favorite repos:
 - [PencarianFilmSMT4](https://github.com/Cithaaa0205/PencarianFilmSMT4) — Film search made easy!
