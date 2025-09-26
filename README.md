@@ -1,9 +1,5 @@
 # Hi there, I'm Citha Aurelya! 👋
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/156801034?v=4" width="120" alt="Citha Aurelya" style="border-radius:50%;">
-</p>
-
 ## 🎓 About Me
 - **Student** | Soon-to-be Developer (beginner)
 - Passionate about learning, exploring new tech, and building my skills as I grow!
